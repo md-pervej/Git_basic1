@@ -10,3 +10,7 @@ function add1(){
 function add2(){
     console.log("function2");
 }
+
+function add3(){
+    console.log("function3");
+}
